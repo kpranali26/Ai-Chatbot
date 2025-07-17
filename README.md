@@ -23,12 +23,7 @@ This is a simple yet smart AI-powered chatbot that can respond to **text** and *
 
 ---
 
-## 📷 Screenshot
 
-*(Add a screenshot here showing text + image conversation)*
-
-![Chatbot Screenshot](second.png)
-![Chatbot Screenshot](first.png)
 
 ---
 
